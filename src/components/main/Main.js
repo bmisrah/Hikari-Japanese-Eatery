@@ -8,7 +8,7 @@ class Main extends Component {
       <div>
         <div className="bowls">
           <h2 className="title">
-            Hikari Japanese <span> Eatery</span>
+            Hikari <span>Japanese Eatery</span>
           </h2>
         </div>
       </div>

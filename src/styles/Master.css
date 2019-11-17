@@ -1,1 +1,5 @@
-/* No CSS *//*# sourceMappingURL=Master.css.map */
+@font-face {
+  font-family: "yozakura";
+  src: url("../../src/fonts/yozakura/YOZAKURA-Regular.otf") format("otf");
+}
+/*# sourceMappingURL=Master.css.map */
